@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "project-folder-button",
+    "libraryId": "4a6ebc2a-78f1-44f4-90b8-5be9ae9660e8",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Project-Folder-Button",
+    "solutionShortDescription": "Project-Folder-Button description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
